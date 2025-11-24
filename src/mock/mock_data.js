@@ -107,18 +107,18 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
-        },
-        {
           "id": "aliyun",
           "name": "阿里云",
           "url": "https://www.aliyun.com",
           "description": "阿里巴巴云计算",
           "icon": "/sitelogo/www.aliyun.com.ico"
+        },
+        {
+          "id": "aws",
+          "name": "AWS",
+          "url": "https://aws.amazon.com",
+          "description": "亚马逊云服务",
+          "icon": "/sitelogo/aws.amazon.com.ico"
         },
         {
           "id": "tencent-cloud",
@@ -140,6 +140,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1764015179935",
+          "name": "徕卡云",
+          "url": "https://www.lcayun.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.lcayun.com"
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "南与导航",
-  "_fileSha": "b03d0407ec06ac7f254abf6645ac0425a8e74a92"
+  "title": "南与导航"
 }
