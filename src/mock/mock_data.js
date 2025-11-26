@@ -142,6 +142,13 @@ export const mockData = {
           "icon": "/sitelogo/www.huaweicloud.com.ico"
         },
         {
+          "id": "site-1764133068465",
+          "name": "京东云",
+          "url": "https://www.jdcloud.com/",
+          "description": "",
+          "icon": "https://th.bing.com/th/id/ODF.k15MgWSrq0bbBPDByVchNA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
+        },
+        {
           "id": "site-1752644060499",
           "name": "怕死云",
           "url": "https://www.pasyun.com/",
