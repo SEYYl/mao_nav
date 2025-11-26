@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1764131730064",
+          "name": "Linux脚本工具",
+          "url": "https://kejilion.sh/index-zh-CN.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/kejilion.sh"
         }
       ]
     },
