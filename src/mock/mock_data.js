@@ -146,7 +146,7 @@ export const mockData = {
           "name": "徕卡云",
           "url": "https://www.lcayun.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.lcayun.com"
+          "icon": "https://www.lcayun.com/upload/banner/2023-10/11/169700642979539.png"
         }
       ]
     },
