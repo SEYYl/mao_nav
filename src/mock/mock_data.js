@@ -273,10 +273,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1765028139304",
+      "icon": "🔍",
+      "name": "番剧",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1765028208122",
+          "name": "MX动漫",
+          "url": "https://www.mxdm.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mxdm.xyz"
+        },
+        {
+          "id": "site-1765028263845",
+          "name": "嗷呜动漫",
+          "url": "https://www.aowu.tv/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.aowu.tv"
+        },
+        {
+          "id": "site-1765028315251",
+          "name": "樱花动漫",
+          "url": "https://www.295yhw.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.295yhw.com"
+        }
+      ]
+    },
+    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "stackoverflow",
@@ -319,7 +348,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "figma",
@@ -355,7 +384,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "binance",
@@ -419,7 +448,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "mdn",
@@ -455,7 +484,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "json-formatter",
@@ -491,7 +520,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "bilibili",
@@ -527,7 +556,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "notion",
