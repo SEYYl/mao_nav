@@ -56,11 +56,18 @@ export const mockData = {
           "icon": "/sitelogo/curlconverter.com.ico"
         },
         {
+          "id": "site-1776402480069",
+          "name": "SakuraCat",
+          "url": "https://help.sakuracat.com/zh/",
+          "description": "",
+          "icon": "https://ts3.tc.mm.bing.net/th/id/ODF._iCJ7eZoEGGrz9KrsrE1dQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
+        },
+        {
           "id": "site-1764131730064",
           "name": "Linux脚本工具",
           "url": "https://kejilion.sh/index-zh-CN.html",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/kejilion.sh"
+          "icon": "https://ts2.tc.mm.bing.net/th/id/ODF.vJfwN6sPuWbZmpmlKV5NQw?w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2"
         }
       ]
     },
@@ -688,5 +695,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "南与导航"
+  "title": "南与导航",
+  "search": "bing"
 }
