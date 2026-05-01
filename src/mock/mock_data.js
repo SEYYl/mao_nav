@@ -232,6 +232,34 @@ export const mockData = {
           "url": "https://www.vmrack.net",
           "description": "低延迟CN2线路",
           "icon": "https://dh.kejilion.pro/wp-content/uploads/2025/10/35395.webp"
+        },
+        {
+          "id": "site-1777607732403",
+          "name": "Evoxt",
+          "url": "https://console.evoxt.com",
+          "description": "马来香港日本优化线路",
+          "icon": "https://dh.kejilion.pro/wp-content/uploads/2025/06/evoxt_logo.webp"
+        },
+        {
+          "id": "site-1777607819193",
+          "name": "RackNerd",
+          "url": "https://www.racknerd.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.racknerd.com"
+        },
+        {
+          "id": "site-1777608015123",
+          "name": "DMIT",
+          "url": "https://www.dmit.io/",
+          "description": "优质VPS服务商",
+          "icon": "https://dh.kejilion.pro/wp-content/uploads/2022/11/image-removebg-preview.png"
+        },
+        {
+          "id": "site-1777608132483",
+          "name": "bandwagonhost",
+          "url": "https://bandwagonhost.com/order/ecommerce/Los%20Angeles/USCA_9",
+          "description": "搬瓦工CN2GIA代表",
+          "icon": "https://dh.kejilion.pro/wp-content/uploads/2022/09/Snipaste_2022-09-13_13-05-15.webp"
         }
       ]
     },
