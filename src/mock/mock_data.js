@@ -199,6 +199,13 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
           "id": "site-1764134577296",
           "name": "vultr",
           "url": "https://www.vultr.com/",
@@ -213,13 +220,6 @@ export const mockData = {
           "icon": "/sitelogo/aws.amazon.com.ico"
         },
         {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
-        },
-        {
           "id": "site-1776402868712",
           "name": "CloudCone",
           "url": "https://app.cloudcone.com/?ref=8355",
@@ -232,13 +232,6 @@ export const mockData = {
           "url": "https://www.vmrack.net",
           "description": "低延迟CN2线路",
           "icon": "https://dh.kejilion.pro/wp-content/uploads/2025/10/35395.webp"
-        },
-        {
-          "id": "site-1777607732403",
-          "name": "Evoxt",
-          "url": "https://console.evoxt.com",
-          "description": "马来香港日本优化线路",
-          "icon": "https://dh.kejilion.pro/wp-content/uploads/2025/06/evoxt_logo.webp"
         },
         {
           "id": "site-1777607819193",
@@ -260,6 +253,20 @@ export const mockData = {
           "url": "https://bandwagonhost.com/order/ecommerce/Los%20Angeles/USCA_9",
           "description": "搬瓦工CN2GIA代表",
           "icon": "https://dh.kejilion.pro/wp-content/uploads/2022/09/Snipaste_2022-09-13_13-05-15.webp"
+        },
+        {
+          "id": "site-1777607732403",
+          "name": "Evoxt",
+          "url": "https://console.evoxt.com",
+          "description": "马来香港日本优化线路",
+          "icon": "https://dh.kejilion.pro/wp-content/uploads/2025/06/evoxt_logo.webp"
+        },
+        {
+          "id": "site-1777813153945",
+          "name": "ZgoCloud",
+          "url": "https://clients.zgovps.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/clients.zgovps.com"
         }
       ]
     },
