@@ -287,15 +287,7 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 3,
-      "sites": [
+        },
         {
           "id": "json-formatter",
           "name": "JSON Formatter",
@@ -330,7 +322,7 @@ export const mockData = {
       "id": "webmaster-tools",
       "name": "站长工具",
       "icon": "🔧",
-      "order": 4,
+      "order": 3,
       "sites": [
         {
           "id": "site-1784850597315-10texs",
@@ -492,6 +484,20 @@ export const mockData = {
           "url": "https://analytics.google.com/analytics/web",
           "description": "谷歌网站分析",
           "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1774510993770",
+          "name": "RiskTest",
+          "url": "https://risk.copolits.com/",
+          "description": "检测风控",
+          "icon": "https://www.faviconextractor.com/favicon/risk.copolits.com"
+        },
+        {
+          "id": "site-1774511036557",
+          "name": "虚拟地址",
+          "url": "https://ip-geoaddress-generator.pages.dev/",
+          "description": "获取当前ip地址",
+          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
         }
       ]
     },
@@ -499,7 +505,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务-国内",
       "icon": "☁️",
-      "order": 5,
+      "order": 4,
       "sites": [
         {
           "id": "tencent-cloud",
@@ -542,7 +548,7 @@ export const mockData = {
       "id": "category-1764134311421",
       "icon": "🌍",
       "name": "云服务器-海外",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "vercel",
@@ -837,15 +843,7 @@ export const mockData = {
           "url": "https://ping0.cc/vpsmon/5day",
           "description": "全球小鸡监控平台",
           "icon": "/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "cloud-community",
-      "name": "云服务器-社区",
-      "icon": "👥",
-      "order": 7,
-      "sites": [
+        },
         {
           "id": "site-1784850597315-1yxmmp",
           "name": "hostloc",
@@ -873,7 +871,7 @@ export const mockData = {
       "id": "category-1764134623616",
       "icon": "🌐",
       "name": "域名服务商",
-      "order": 8,
+      "order": 6,
       "sites": [
         {
           "id": "cloudflare",
@@ -972,7 +970,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 9,
+      "order": 7,
       "sites": [
         {
           "id": "site-1767454229056",
@@ -1008,15 +1006,7 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
-        }
-      ]
-    },
-    {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 10,
-      "sites": [
+        },
         {
           "id": "figma",
           "name": "Figma",
@@ -1051,7 +1041,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 11,
+      "order": 8,
       "sites": [
         {
           "id": "linuxdo",
@@ -1094,7 +1084,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 12,
+      "order": 9,
       "sites": [
         {
           "id": "binance",
@@ -1151,15 +1141,7 @@ export const mockData = {
           "url": "https://www.futunn.com",
           "description": "港美股交易软件",
           "icon": "/sitelogo/www.futunn.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "cross-border-pay",
-      "name": "跨境支付",
-      "icon": "💳",
-      "order": 13,
-      "sites": [
+        },
         {
           "id": "site-1784850597315-krekgk",
           "name": "PayPal",
@@ -1208,7 +1190,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 14,
+      "order": 10,
       "sites": [
         {
           "id": "notion",
@@ -1237,15 +1219,7 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "email-services",
-      "name": "邮箱直链",
-      "icon": "📧",
-      "order": 15,
-      "sites": [
+        },
         {
           "id": "site-1784850597315-40vuub",
           "name": "Gmail",
@@ -1273,15 +1247,7 @@ export const mockData = {
           "url": "https://mail.qq.com/",
           "description": "腾讯QQ邮箱",
           "icon": "/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "cloud-storage",
-      "name": "网盘云盘",
-      "icon": "💾",
-      "order": 16,
-      "sites": [
+        },
         {
           "id": "site-1784850597316-cl8qn2",
           "name": "百度网盘",
@@ -1327,32 +1293,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "security-tools",
-      "icon": "🛡️",
-      "name": "安全检测",
-      "order": 17,
-      "sites": [
-        {
-          "id": "site-1774510993770",
-          "name": "RiskTest",
-          "url": "https://risk.copolits.com/",
-          "description": "检测风控",
-          "icon": "https://www.faviconextractor.com/favicon/risk.copolits.com"
-        },
-        {
-          "id": "site-1774511036557",
-          "name": "虚拟地址",
-          "url": "https://ip-geoaddress-generator.pages.dev/",
-          "description": "获取当前ip地址",
-          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
-        }
-      ]
-    },
-    {
       "id": "software-download",
       "name": "软件下载",
       "icon": "📦",
-      "order": 18,
+      "order": 11,
       "sites": [
         {
           "id": "site-1784850597316-4ytxl6",
@@ -1378,39 +1322,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1765028139304",
-      "icon": "🎬",
-      "name": "番剧",
-      "order": 19,
-      "sites": [
-        {
-          "id": "site-1765028208122",
-          "name": "MX动漫",
-          "url": "https://www.mxdm.xyz/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.mxdm.xyz"
-        },
-        {
-          "id": "site-1765028263845",
-          "name": "嗷呜动漫",
-          "url": "https://www.aowu.tv/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.aowu.tv"
-        },
-        {
-          "id": "site-1765028315251",
-          "name": "樱花动漫",
-          "url": "https://www.295yhw.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.295yhw.com"
-        }
-      ]
-    },
-    {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 20,
+      "order": 12,
       "sites": [
         {
           "id": "bilibili",
@@ -1439,15 +1354,28 @@ export const mockData = {
           "url": "https://www.zhihu.com",
           "description": "知识问答社区",
           "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
-        }
-      ]
-    },
-    {
-      "id": "social-entertain",
-      "name": "社交娱乐",
-      "icon": "🎉",
-      "order": 21,
-      "sites": [
+        },
+        {
+          "id": "site-1765028208122",
+          "name": "MX动漫",
+          "url": "https://www.mxdm.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mxdm.xyz"
+        },
+        {
+          "id": "site-1765028263845",
+          "name": "嗷呜动漫",
+          "url": "https://www.aowu.tv/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.aowu.tv"
+        },
+        {
+          "id": "site-1765028315251",
+          "name": "樱花动漫",
+          "url": "https://www.295yhw.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.295yhw.com"
+        },
         {
           "id": "site-1784850597316-ixc5ag",
           "name": "抖音",
