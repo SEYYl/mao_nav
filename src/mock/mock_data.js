@@ -146,6 +146,97 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1784850597316-gnjej0",
+          "name": "TogetherAI",
+          "url": "https://api.together.ai/",
+          "description": "大模型免费API",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-6hvt1g",
+          "name": "硅基流动",
+          "url": "https://cloud.siliconflow.cn/i/irWVdPic",
+          "description": "AI大模型免费API",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-aem701",
+          "name": "MiniMax",
+          "url": "https://www.minimaxi.com/",
+          "description": "MiniMax AI平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-z1nkx5",
+          "name": "Z.ai",
+          "url": "https://z.ai/subscribe?ic=GN5KHZH0XZ",
+          "description": "API大模型聚合",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-twkn4w",
+          "name": "OpenRouter",
+          "url": "https://openrouter.ai/",
+          "description": "大模型API聚合",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-telgz7",
+          "name": "通义千问",
+          "url": "https://tongyi.aliyun.com/",
+          "description": "阿里旗下AI大模型",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-7tgh1x",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com/",
+          "description": "百度聊天大模型",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-lurvcj",
+          "name": "Kimi",
+          "url": "https://kimi.moonshot.cn/",
+          "description": "国内主流AI聊天",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-grzi8h",
+          "name": "Rask AI",
+          "url": "https://zh.rask.ai/",
+          "description": "视频翻译器",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-oc6qlj",
+          "name": "ClipDrop",
+          "url": "https://clipdrop.co/stable-doodle",
+          "description": "强大的AI绘画工具",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-ptq9ap",
+          "name": "慧言AI",
+          "url": "https://chat.huiyan-ai.com/#/home",
+          "description": "群友大佬AI聚合网站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-pa5exa",
+          "name": "AI绘画提示词",
+          "url": "https://gen.kejilion.pro/",
+          "description": "提示词生成器",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-jw1tkt",
+          "name": "NotebookLM",
+          "url": "https://notebooklm.google.com/",
+          "description": "谷歌AI全能助理",
+          "icon": "/favicon.ico"
         }
       ]
     },
@@ -267,6 +358,230 @@ export const mockData = {
           "url": "https://clients.zgovps.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/clients.zgovps.com"
+        },
+        {
+          "id": "site-1784850597316-wmrqk9",
+          "name": "甲骨文云",
+          "url": "https://www.oracle.com/cn/cloud/free/",
+          "description": "永久免费",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-siymoc",
+          "name": "微软云",
+          "url": "https://azure.microsoft.com/zh-cn/free/",
+          "description": "免费1个月",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-ip7b64",
+          "name": "谷歌云",
+          "url": "https://cloud.google.com/",
+          "description": "免费3个月",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-8tdyf7",
+          "name": "DigitalOcean",
+          "url": "https://m.do.co/c/8adce5dbbf0a",
+          "description": "可白嫖200美元",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-j3wkdl",
+          "name": "Linode",
+          "url": "https://www.linode.com/lp/refer/?r=f05d4a5d52a881b036d4779bce805d5a2435d90a",
+          "description": "100美金2月",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-3ij52x",
+          "name": "V.PS",
+          "url": "https://vps.hosting/?affid=1355",
+          "description": "有软银线路的机器",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-8u1ct7",
+          "name": "BrainHost",
+          "url": "https://account.brainhost.ai/?affid=42",
+          "description": "美国OVH线路 日本香港低延迟",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-4jo1n5",
+          "name": "HostEONS",
+          "url": "https://my.hosteons.com/aff.php?aff=1650",
+          "description": "老牌厂商12美元一年",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-dvxjv0",
+          "name": "华纳云",
+          "url": "https://www.hncloud.com/activity/activity_2025double.html?k=kejilion",
+          "description": "香港日美三网CN2",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-m2ld94",
+          "name": "荫云",
+          "url": "https://www.yin-net.com/aff.php?aff=32",
+          "description": "原生双ISP家宽",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-9pbdr2",
+          "name": "LightNode",
+          "url": "https://www.lightnode.com/?inviteCode=Z7IQNR&promoteWay=LINK",
+          "description": "埃及土耳其巴铁VPS",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-ifldgq",
+          "name": "SurferCloud",
+          "url": "https://www.surfercloud.com?ytag=kejilion",
+          "description": "东南亚精品云主机商",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-yjvq21",
+          "name": "jtti",
+          "url": "https://www.jtti.cc/zh/offers?k=kejilion",
+          "description": "香港CN2+高防IP",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-7b276e",
+          "name": "绿云",
+          "url": "https://greencloudvps.com/billing/aff.php?aff=8133",
+          "description": "海外精品低延迟",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-u8gw9c",
+          "name": "Spartan host",
+          "url": "https://billing.spartanhost.net/aff.php?aff=2373",
+          "description": "斯巴达美国机高防CN2",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-z8rrf7",
+          "name": "ColoCrossing",
+          "url": "https://cloud.colocrossing.com/aff.php?aff=447",
+          "description": "美国VPS12刀1年20T流量",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-p4kp60",
+          "name": "Hostinger",
+          "url": "https://hostinger.com?REFERRALCODE=1712105",
+          "description": "知名云服务运营商",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-tnopl6",
+          "name": "iON Cloud",
+          "url": "https://ion.krypt.asia/aff.php?aff=1828",
+          "description": "国区优化线路",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-guaq9e",
+          "name": "OVHcloud",
+          "url": "https://www.ovhcloud.com/en-sg/",
+          "description": "老牌法国厂商",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-9in4mo",
+          "name": "Gcore",
+          "url": "https://gcore.com/",
+          "description": "云平台3欧元1个月",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-7zt2i8",
+          "name": "LiteServer",
+          "url": "https://clients.liteserver.nl/aff.php?aff=675",
+          "description": "荷兰大盘鸡",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-kur4zg",
+          "name": "netcup",
+          "url": "https://www.netcup.eu/",
+          "description": "欧洲大盘鸡3刀每月",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-xcjwj7",
+          "name": "Hetzner",
+          "url": "https://www.hetzner.com/",
+          "description": "芬兰德国强机3刀每月",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-jwd1x2",
+          "name": "atlantic",
+          "url": "https://cloud.atlantic.net",
+          "description": "大西洋可白嫖一年",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-88oxr6",
+          "name": "justhost.asia",
+          "url": "https://justhost.asia/?ref=156869",
+          "description": "俄罗斯三网CN2 11RMB每月",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-r2raxb",
+          "name": "Xentain",
+          "url": "https://billing.xentain.com/aff.php?aff=41",
+          "description": "美国加拿大高防服务器",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-5lhnhw",
+          "name": "EasyVM",
+          "url": "https://portal.easyvm.net/aff.php?aff=146",
+          "description": "美国VPS15刀1年带防御",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-5aofvf",
+          "name": "HostHatch",
+          "url": "https://cloud.hosthatch.com/a/3234",
+          "description": "性价比大盘鸡VPS",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-e495eq",
+          "name": "buyvm",
+          "url": "https://my.frantech.ca/aff.php?aff=7124",
+          "description": "抗诉且防御DDOS",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-n0l2qr",
+          "name": "silicloud",
+          "url": "https://www.silicloud.com/zh/activity/vps",
+          "description": "东京CN2GIA-9929",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-oqa3tv",
+          "name": "Layerstack",
+          "url": "http://www.layerstack.com/?afmc=3m",
+          "description": "东亚北美主机有GIA线路",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-c0n59x",
+          "name": "全球VPS监控",
+          "url": "https://ping0.cc/vpsmon/5day",
+          "description": "全球小鸡监控平台",
+          "icon": "/favicon.ico"
         }
       ]
     },
@@ -338,6 +653,34 @@ export const mockData = {
           "url": "https://www.gname.com/",
           "description": "新加坡域名商注册送优惠券",
           "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAErElEQVRYhbWXbYgVVRjHf2fuuO9Xr7auYbnZmpYvmCAYVBCUK2qLIhqYuEYvbpIVlAjFRmiYG0YZpSitRUKaZWnWwsqqmGAfNI0+qOSqRZu1rO7actd179w5M08f5u7et5m9d9Me+HPnnPOc//M/Z57zzLmKIdiHzTJHKeYDsxRMAG4DFNAt8DvwswgtL89TX+fLqXIGPShFcZvNSrFqoFNys4mwTyleWlOj/v7PAt7eJ/VKsSGXyMFMYEf9IrVySAJEhHV7OacUkyVotXma8kRElWLiuifUlZwC3tgjJY4rnUDxzYX2lTOpYZm6MKiAV3e6PUDZrQ+eCKioeG+FcbW/baYOrv7EPWXp/y94wi4AkQFB/Q8rt7vPA9tzzXZc0C644gHAUB5ChoecRwsaG1cZdWkCVmxJ0AlZDI4LloaYhim3w/2VcMcoCBcrBLjeJ3R0w/l2ONUGpgFFJpihYAUKxu580Wg3AZZudust29+xz4Y7I7BkFjw0VVFg+nmlK/7lN9h3QjjdBuHCQAEfAUtMAEvz2kBxSZwbAMuBhTOgbm4em5piM6pgRpWi6YSw5QiUDEvnTcRZDGA+vtGdaNnim3g3bIiU+Ae/1gN/dQo3LO/9jyhVjC2HsqKkz5gI9MaFUID++RvdxaalZW5QsbFssHV2/ys7hOZWocwElSB3RbAcGDccFs9ULHpQUTAMYjYUGv78Cqk2LZuZ/sNe4vXG0vu2NQmHWoWKlJXGHe83bEI0BtuOCZsOCRNGesHjPotI2EzTshkfNKo1XO5K79t9QigyvN3RApd7YeG9MKFCcbFDOHAexhTDyALo7IWAxffb3aaliWTmB3g547pw9Nf0cymuFxygvATONxhEypKzPojBpr0u7/4Ik8LZnOl5SMSI24hlQzwDlg2OA8fboSuanDTnPuiOwZkofLM2NbhnpUWwvtagZbXij2g2Z0bbNSxNl6W99+2HcAi+PZ7UvfwxxeV/hDEhaPjCZdsBoa0je28LQtBtB/MmcM2wbC5aCXWZiNtQpuC5r9wB4qqxivrZio5e4eOT8MJ+l7vqHBqb0l9i/edCueHPm4KLRtyWn+K2MACdgC1YtqC1gA3vf5kUseEZgxXTFNGoQAymVypq5yTz5Mgp4fAFQblJLn9wUg2vdSpAfDYx3aJdcG6rweTxyUC7W4T2a8Kapclcv94H4VqH0mICC1CKVSuAwqW6DRg3mKclQB9c+SzE6JH+Pq7A5JUOrVEoHORDNMC5x1QGgKV5K669ghEE5QAmVCx3uPRnduns7oGqpxxaO0HJ4FwJbIXUA75I3yCfa5gAV+HTtYqnF3pb//0xYcF6F8JAHiv3TBWyPxRPCligq4GWfKdzHaZXwqhS+OEMMCLvmQCv8535DmR+yGv0buDJvGkcvB3xvSME2lmazGn9jew8nafPAlOGRJm/9dJsptXO7G9FszkVh3M4cIvRg1blmeGCT+psvQthWZqXZDxnjvm1vb6THDYf8AszeKl4VFcjHODm/qTUcdRsDBrM77L3iH4W4U2gMs+gPSgaOGY25HIc2m3zYT0aqAFmAfcgjEJhAN14f89PAwc5bl7Kl/JffLlUPGmL/EEAAAAASUVORK5CYII="
+        },
+        {
+          "id": "site-1784850597316-8wqrle",
+          "name": "Dynadot",
+          "url": "https://www.dynadot.com/",
+          "description": "申请免费link域名",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-vkf51n",
+          "name": "onamae",
+          "url": "https://www.onamae.com/",
+          "description": "日本域名注册网站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-0ny0de",
+          "name": "Cloudns",
+          "url": "https://www.cloudns.net/",
+          "description": "域名解析中间商",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-d9lyoj",
+          "name": "topDN",
+          "url": "https://topdn.net/",
+          "description": "域名解析中间商",
+          "icon": "/favicon.ico"
         }
       ]
     },
@@ -740,6 +1083,510 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "cloud-community",
+      "name": "云服务器-社区",
+      "icon": "👥",
+      "order": 3.5,
+      "sites": [
+        {
+          "id": "site-1784850597315-1yxmmp",
+          "name": "hostloc",
+          "url": "https://hostloc.com/",
+          "description": "全球主机交流论坛",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-9bfeel",
+          "name": "LowEndTalk",
+          "url": "https://lowendtalk.com/",
+          "description": "国外VPS论坛",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-ul4mo1",
+          "name": "飞牛社区",
+          "url": "https://club.fnnas.com/forum.php?mod=forumdisplay&fid=4",
+          "description": "NAS圈论坛",
+          "icon": "/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "webmaster-tools",
+      "name": "站长工具",
+      "icon": "🔧",
+      "order": 9.5,
+      "sites": [
+        {
+          "id": "site-1784850597315-10texs",
+          "name": "EdgeOne",
+          "url": "https://edgeone.ai/",
+          "description": "腾讯免费CDN",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-omkft6",
+          "name": "Speedtest",
+          "url": "https://www.speedtest.net/",
+          "description": "测速网站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-jcl28s",
+          "name": "FAST",
+          "url": "https://fast.com/",
+          "description": "测速网站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-huy0ha",
+          "name": "IPRoyal",
+          "url": "https://iproyal.cn/#pricing",
+          "description": "代理住宅IP",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-uy9cdl",
+          "name": "站长Ping",
+          "url": "https://ping.chinaz.com/",
+          "description": "PING检测",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-pra2g3",
+          "name": "Check-Host",
+          "url": "https://check-host.net/check-http?host",
+          "description": "网络测试工具",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-k5mpuq",
+          "name": "ITDOG",
+          "url": "https://www.itdog.cn/",
+          "description": "网络测试工具",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-v7ury7",
+          "name": "IPLEAK",
+          "url": "https://ipleak.net/",
+          "description": "DNS泄露检测",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-e5jz9u",
+          "name": "Scamalytics",
+          "url": "https://scamalytics.com/ip",
+          "description": "欺诈IP检测",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-yjvhv8",
+          "name": "GTmetrix",
+          "url": "https://gtmetrix.com/",
+          "description": "网站测速",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-lnx48m",
+          "name": "IPinfo",
+          "url": "https://ipinfo.io/",
+          "description": "IP信息查询",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-3jqlm1",
+          "name": "Geolocation",
+          "url": "https://www.geolocation.com/",
+          "description": "IP位置查询",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-wznyq6",
+          "name": "FOFA",
+          "url": "https://en.fofa.info/",
+          "description": "网络空间搜索引擎",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-kg1c5v",
+          "name": "HTTP/3 Check",
+          "url": "https://http3check.net/",
+          "description": "HTTP/3测试工具",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-k94ws7",
+          "name": "Censys",
+          "url": "https://search.censys.io/",
+          "description": "源站IP泄露检测",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-iz0pht",
+          "name": "Linux Kernel",
+          "url": "https://www.kernel.org/",
+          "description": "Linux内核官网",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-i4qz25",
+          "name": "宝塔面板",
+          "url": "https://www.bt.cn/new/index.html",
+          "description": "老牌运维面板",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-smbn7o",
+          "name": "aaPanel",
+          "url": "https://www.aapanel.com/new/index.html",
+          "description": "宝塔面板国际版",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-mbry2i",
+          "name": "1Panel",
+          "url": "https://1panel.cn/",
+          "description": "新一代运维面板",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-jk8ers",
+          "name": "WordPress",
+          "url": "https://cn.wordpress.org/download/releases/",
+          "description": "官方中文包下载",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-50dhwg",
+          "name": "Docker Hub",
+          "url": "https://hub.docker.com/search?q=",
+          "description": "docker应用仓库",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-wn15fe",
+          "name": "Google AdSense",
+          "url": "https://www.google.com/adsense/new/",
+          "description": "谷歌广告联盟",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-p38crw",
+          "name": "Google Analytics",
+          "url": "https://analytics.google.com/analytics/web",
+          "description": "谷歌网站分析",
+          "icon": "/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "cross-border-pay",
+      "name": "跨境支付",
+      "icon": "💳",
+      "order": 11.5,
+      "sites": [
+        {
+          "id": "site-1784850597315-krekgk",
+          "name": "PayPal",
+          "url": "https://www.paypal.com/signin",
+          "description": "海外支付宝",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-kaj6z9",
+          "name": "万里汇",
+          "url": "https://www.worldfirst.com.cn/cn/",
+          "description": "跨境银行账户平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-lpldeb",
+          "name": "Wise",
+          "url": "https://wise.com",
+          "description": "全球知名支付平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-6yxzgi",
+          "name": "Payoneer",
+          "url": "https://payoneer.com",
+          "description": "派安盈国际汇款平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-70hnlc",
+          "name": "Bybit",
+          "url": "https://www.bybit.com/invite?ref=BN8LAAV",
+          "description": "免费海外虚拟卡",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-dpjm3r",
+          "name": "汇率转换器",
+          "url": "https://currency.kejilion.pro/",
+          "description": "多币种实时汇率工具",
+          "icon": "/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "email-services",
+      "name": "邮箱直链",
+      "icon": "📧",
+      "order": 12,
+      "sites": [
+        {
+          "id": "site-1784850597315-40vuub",
+          "name": "Gmail",
+          "url": "https://mail.google.com/mail/",
+          "description": "谷歌邮箱",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-kbhs8b",
+          "name": "Outlook",
+          "url": "https://outlook.live.com/",
+          "description": "微软Outlook邮箱",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-2x2wx2",
+          "name": "163邮箱",
+          "url": "https://mail.163.com/",
+          "description": "网易163邮箱",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597315-tb1o22",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com/",
+          "description": "腾讯QQ邮箱",
+          "icon": "/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "cloud-storage",
+      "name": "网盘云盘",
+      "icon": "☁️",
+      "order": 12.5,
+      "sites": [
+        {
+          "id": "site-1784850597316-cl8qn2",
+          "name": "百度网盘",
+          "url": "https://help.baidu.com/question?prod_id=29",
+          "description": "国内最大网盘",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-gvhf6a",
+          "name": "阿里云盘",
+          "url": "https://www.aliyundrive.com/",
+          "description": "阿里旗下的云盘",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-zxzgth",
+          "name": "OneDrive",
+          "url": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+          "description": "微软云盘",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-a9oxqo",
+          "name": "GoogleDrive",
+          "url": "https://www.google.com/drive/",
+          "description": "谷歌云盘",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-8wf0gx",
+          "name": "iCloud",
+          "url": "https://www.icloud.com/",
+          "description": "苹果云盘",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-ge6avl",
+          "name": "MediaFire",
+          "url": "https://www.mediafire.com/",
+          "description": "国外网盘服务商",
+          "icon": "/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "social-entertain",
+      "name": "社交娱乐",
+      "icon": "🎉",
+      "order": 13,
+      "sites": [
+        {
+          "id": "site-1784850597316-ixc5ag",
+          "name": "抖音",
+          "url": "https://www.douyin.com/",
+          "description": "国内头部短视频平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-mmgr6w",
+          "name": "腾讯视频",
+          "url": "https://v.qq.com/",
+          "description": "国内头部影视平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-rot6ud",
+          "name": "爱奇艺",
+          "url": "https://m.iqiyi.com/",
+          "description": "国内头部影视网站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-egkexh",
+          "name": "微博",
+          "url": "https://m.weibo.cn/",
+          "description": "国内头部社交媒体网站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-653saw",
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/index.html",
+          "description": "百度分享社区",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-kcnpx6",
+          "name": "Steam",
+          "url": "https://store.steampowered.com/",
+          "description": "全球最大游戏平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-aw2e34",
+          "name": "TikTok",
+          "url": "https://www.tiktok.com/",
+          "description": "网页版",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-djzj93",
+          "name": "Netflix",
+          "url": "https://www.netflix.com/",
+          "description": "奈飞",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-npb3eq",
+          "name": "Disney+",
+          "url": "https://www.disneyplus.com/",
+          "description": "迪士尼影视平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-au170z",
+          "name": "Spotify",
+          "url": "https://open.spotify.com/",
+          "description": "国外主流音乐平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-64kze5",
+          "name": "YouTube Music",
+          "url": "https://music.youtube.com/",
+          "description": "油管旗下音乐平台",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-30napb",
+          "name": "Telegram",
+          "url": "https://web.telegram.org/",
+          "description": "电报网页版",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-h2gdtl",
+          "name": "X (Twitter)",
+          "url": "https://twitter.com/?lang=zh",
+          "description": "原Twitter",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-j4uow6",
+          "name": "Facebook",
+          "url": "https://zh-tw.facebook.com/",
+          "description": "脸书网页版",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-z3djbh",
+          "name": "Google Voice",
+          "url": "https://voice.google.com/",
+          "description": "谷歌虚拟电话",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-ovjusy",
+          "name": "Pinterest",
+          "url": "https://www.pinterest.com/",
+          "description": "国外社区型图站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-isdn8q",
+          "name": "pixiv",
+          "url": "https://www.pixiv.net/",
+          "description": "日本二次元图站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-xkvu8d",
+          "name": "DeviantArt",
+          "url": "https://www.deviantart.com/",
+          "description": "欧美老牌社区型图站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-4kkh0i",
+          "name": "Instagram",
+          "url": "https://www.instagram.com/",
+          "description": "海外著名社交平台",
+          "icon": "/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "software-download",
+      "name": "软件下载",
+      "icon": "📦",
+      "order": 13.5,
+      "sites": [
+        {
+          "id": "site-1784850597316-4ytxl6",
+          "name": "果壳剥壳",
+          "url": "https://www.ghxi.com/category/all/pcsoft",
+          "description": "老牌绿色软件下载站",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-p1szxm",
+          "name": "亿破姐",
+          "url": "https://www.ypojie.com/pc",
+          "description": "MAC软件比较多",
+          "icon": "/favicon.ico"
+        },
+        {
+          "id": "site-1784850597316-ngqzfr",
+          "name": "Apkpure",
+          "url": "https://apkpure.net/cn/",
+          "description": "第三方谷歌应用市场",
+          "icon": "/favicon.ico"
         }
       ]
     }
