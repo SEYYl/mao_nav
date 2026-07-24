@@ -583,7 +583,7 @@ export const mockData = {
           "name": "vmrack",
           "url": "https://www.vmrack.net",
           "description": "低延迟CN2线路",
-          "icon": "https://dh.kejilion.pro/wp-content/uploads/2025/10/35395.webp"
+          "icon": "https://ts3.tc.mm.bing.net/th/id/ODF.4J_zkw8lc_qEo3mrcJwdHg?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
         },
         {
           "id": "site-1777607819193",
@@ -597,7 +597,7 @@ export const mockData = {
           "name": "DMIT",
           "url": "https://www.dmit.io/",
           "description": "优质VPS服务商",
-          "icon": "https://dh.kejilion.pro/wp-content/uploads/2022/11/image-removebg-preview.png"
+          "icon": "https://www.faviconextractor.com/favicon/www.dmit.io"
         },
         {
           "id": "site-1777608132483",
@@ -611,7 +611,7 @@ export const mockData = {
           "name": "Evoxt",
           "url": "https://console.evoxt.com",
           "description": "马来香港日本优化线路",
-          "icon": "https://dh.kejilion.pro/wp-content/uploads/2025/06/evoxt_logo.webp"
+          "icon": "https://www.faviconextractor.com/favicon/console.evoxt.com"
         },
         {
           "id": "site-1777813153945",
@@ -674,7 +674,7 @@ export const mockData = {
           "name": "HostEONS",
           "url": "https://my.hosteons.com/aff.php?aff=1650",
           "description": "老牌厂商12美元一年",
-          "icon": "https://www.faviconextractor.com/favicon/my.hosteons.com"
+          "icon": "https://ts1.tc.mm.bing.net/th/id/ODF.rogiz3ixifaIl4LRmbxgZQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2"
         },
         {
           "id": "site-1784850597316-dvxjv0",
@@ -688,7 +688,7 @@ export const mockData = {
           "name": "荫云",
           "url": "https://www.yin-net.com/aff.php?aff=32",
           "description": "原生双ISP家宽",
-          "icon": "https://www.faviconextractor.com/favicon/www.yin-net.com"
+          "icon": "https://ts1.tc.mm.bing.net/th/id/ODF.aZvg48FrhQ72H6mhPbVjmQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
         },
         {
           "id": "site-1784850597316-9pbdr2",
